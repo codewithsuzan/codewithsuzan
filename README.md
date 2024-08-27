@@ -5,5 +5,3 @@
 - 🛠️ Exploring backend development with **Node.js** and **Express**.
 - 🎓 Studying **BSc CSIT** at **Patan Multiple Campus**.
 - 📫 How to reach me: sujantimalsina333@gmail.com
-- ⚡ Fun fact: I enjoy teaching tech through Instagram Reels!
-
