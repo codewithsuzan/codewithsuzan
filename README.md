@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujan</h1>
-<h3 align="center">🔐Cybersecurity Enthusiast || Frontend Developer</h3>
-
-<h3 align="center>TryHackMe👇</h3>
-<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/SuZaaaaan.ffx.png" alt="TryHackMe">
+<h3 align="center">Aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzan0x1&label=Profile%20views&color=0e75b6&style=flat" alt="suzan0x1" /> </p>
 
@@ -10,9 +7,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 👯 I’m looking to collaborate on **frontend projects**
-
-- 💬 Ask me about **C,C++,JS,Node.js**
+- 💬 Ask me about **C,C++,JS,Node JS**
 
 - 📫 How to reach me **sujantimalsina333@gmail.com**
 
