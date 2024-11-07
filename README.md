@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suzan0x1" alt="suzan0x1" /></a> </p>
 
-- 🌱 I’m currently learning **Cybersecurity**
-
-- 💬 Ask me about **C,C++,JS,Node JS**
 
 - 📫 How to reach me **sujantimalsina333@gmail.com**
 
