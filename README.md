@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujan</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suzan0x1&label=Profile%20views&color=0e75b6&style=flat" alt="suzan0x1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suzan0x1" alt="suzan0x1" /></a> </p>
-
 
 - 📫 How to reach me **sujantimalsina333@gmail.com**
 
